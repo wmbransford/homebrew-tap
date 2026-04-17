@@ -1,9 +1,9 @@
 class ReelabsMcp < Formula
   desc "Native video editing MCP server for Claude"
   homepage "https://reelabs.ai"
-  version "0.0.1"
-  url "https://github.com/wmbransford/reelabs-mcp/releases/download/v#{version}/reelabs-mcp-#{version}-macos.tar.gz"
-  sha256 "84755601e1100434d200fd64f231d8733e6c78ae643218eca523517e8a00360c"
+  version "0.0.2"
+  url "https://github.com/wmbransford/reelabs-mcp/releases/download/v0.0.2/reelabs-mcp-0.0.2-macos.tar.gz"
+  sha256 "bcf9f1757651c3002d4927eb1613a2f81d2c560ccc47bb457a42b4dd4b8a5404"
   license "MIT"
 
   depends_on :macos => :sequoia
