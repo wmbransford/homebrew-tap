@@ -3,7 +3,7 @@ class ReelabsMcp < Formula
   homepage "https://reelabs.ai"
   version "0.0.1"
   url "https://github.com/wmbransford/reelabs-mcp/releases/download/v#{version}/reelabs-mcp-#{version}-macos.tar.gz"
-  sha256 ""
+  sha256 "84755601e1100434d200fd64f231d8733e6c78ae643218eca523517e8a00360c"
   license "MIT"
 
   depends_on :macos => :sequoia
